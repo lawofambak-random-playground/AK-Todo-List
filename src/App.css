@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+
+.Title {
+  font-size: 30px;
+}
+
+.InputBox {
+  border-style: dotted;
+  width: 200px;
+  block-size: 19px;
+}
+
+.AddButton {
+  border-style: ridge;
+  font-size: medium;
+}
+
+.TodoText {
+  font-size: 25px;
+  color: rgb(1, 119, 80);
+}
